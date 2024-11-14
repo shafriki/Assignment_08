@@ -1,0 +1,379 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "HP Pavilion 15",
+        "product_image": "https://i.ibb.co.com/pJcDkPr/HP-Pavilion-15.webp",
+        "category": "Laptops",
+        "price": 699.99,
+        "description": "HP Pavilion 15 with powerful performance and sleek design.",
+        "specifications": [
+            "Intel Core i5",
+            "8GB RAM",
+            "512GB SSD",
+            "15.6 inch FHD display"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "other_field": "Color: Silver"
+    },
+    {
+        "product_id": 2,
+        "product_title": "Asus ZenBook 14",
+        "product_image": "https://i.ibb.co.com/N9KzwXd/Asus-Zen-Book-14.webp",
+        "category": "Laptops",
+        "price": 849.99,
+        "description": "Asus ZenBook 14 offers portability and performance.",
+        "specifications": [
+            "Intel Core i7",
+            "16GB RAM",
+            "1TB SSD",
+            "14 inch FHD display"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "other_field": "Weight: 2.6 lbs"
+    },
+    {
+        "product_id": 3,
+        "product_title": "HP Envy x360",
+        "product_image": "https://i.ibb.co.com/3F1G1DK/HP-Envy-x360.webp",
+        "category": "Laptops",
+        "price": 749.99,
+        "description": "HP Envy x360, a versatile 2-in-1 laptop.",
+        "specifications": [
+            "AMD Ryzen 5",
+            "8GB RAM",
+            "256GB SSD",
+            "13.3 inch FHD touchscreen"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "other_field": "Color: Dark Green"
+    },
+    {
+        "product_id": 4,
+        "product_title": "Asus VivoBook 15",
+        "product_image": "https://i.ibb.co.com/VBZL85G/Asus-Vivo-Book-15.webp",
+        "category": "Laptops",
+        "price": 599.99,
+        "description": "Asus VivoBook 15, affordable and powerful.",
+        "specifications": [
+            "Intel Core i3",
+            "4GB RAM",
+            "128GB SSD",
+            "15.6 inch HD display"
+        ],
+        "availability": true,
+        "rating": 4.1,
+        "other_field": "Color: Slate Grey"
+    },
+    {
+        "product_id": 5,
+        "product_title": "Samsung Galaxy S21",
+        "product_image": "https://i.ibb.co.com/j4rwtyG/Samsung-Galaxy-S21.jpg",
+        "category": "Phones",
+        "price": 799.99,
+        "description": "Samsung Galaxy S21 with stunning display and camera.",
+        "specifications": [
+            "6.2 inch display",
+            "128GB storage",
+            "8GB RAM",
+            "4000mAh battery"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "other_field": "Color: Phantom Gray"
+    },
+    {
+        "product_id": 6,
+        "product_title": "Samsung Galaxy A52",
+        "product_image": "https://i.ibb.co.com/cbSMT68/Samsung-Galaxy-A52.jpg",
+        "category": "Phones",
+        "price": 349.99,
+        "description": "Samsung Galaxy A52, a mid-range smartphone with great features.",
+        "specifications": [
+            "6.5 inch display",
+            "128GB storage",
+            "6GB RAM",
+            "4500mAh battery"
+        ],
+        "availability": true,
+        "rating": 1.4,
+        "other_field": "Color: Awesome Blue"
+    },
+    {
+        "product_id": 7,
+        "product_title": "Samsung Galaxy Note 20",
+        "product_image": "https://i.ibb.co.com/YpS1fsj/Samsung-Galaxy-Note-20.jpg",
+        "category": "Phones",
+        "price": 999.99,
+        "description": "Samsung Galaxy Note 20 with advanced S Pen features.",
+        "specifications": [
+            "6.7 inch display",
+            "256GB storage",
+            "8GB RAM",
+            "4500mAh battery"
+        ],
+        "availability": false,
+        "rating": 4.6,
+        "other_field": "Color: Mystic Bronze"
+    },
+    {
+        "product_id": 8,
+        "product_title": "Samsung Galaxy Z Flip 3",
+        "product_image": "https://i.ibb.co.com/K6JTT0F/Samsung-Galaxy-Z-Flip-3.jpg",
+        "category": "Phones",
+        "price": 999.99,
+        "description": "Samsung Galaxy Z Flip 3, a foldable smartphone.",
+        "specifications": [
+            "6.7 inch display",
+            "256GB storage",
+            "8GB RAM",
+            "3300mAh battery"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "other_field": "Color: Phantom Black"
+    },
+    {
+        "product_id": 9,
+        "product_title": "iPhone 13",
+        "product_image": "https://i.ibb.co.com/7SB25s2/i-Phone-13.png",
+        "category": "iPhones",
+        "price": 799.99,
+        "description": "iPhone 13 with exceptional camera and performance.",
+        "specifications": [
+            "6.1 inch display",
+            "128GB storage",
+            "4GB RAM",
+            "3095mAh battery"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "other_field": "Color: Starlight"
+    },
+    {
+        "product_id": 10,
+        "product_title": "iPhone 12",
+        "product_image": "https://i.ibb.co.com/2gjV5Fv/i-Phone-12.jpg",
+        "category": "iPhones",
+        "price": 699.99,
+        "description": "iPhone 12 with Super Retina display.",
+        "specifications": [
+            "6.1 inch display",
+            "64GB storage",
+            "4GB RAM",
+            "2815mAh battery"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "other_field": "Color: Black"
+    },
+    {
+        "product_id": 11,
+        "product_title": "MacBook Air",
+        "product_image": "https://i.ibb.co.com/4jj0gkp/Mac-Book-Air.webp",
+        "category": "MacBooks",
+        "price": 999.99,
+        "description": "MacBook Air with M1 chip and incredible battery life.",
+        "specifications": [
+            "Apple M1 chip",
+            "8GB RAM",
+            "256GB SSD",
+            "13.3 inch Retina display"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "other_field": "Color: Gold"
+    },
+    {
+        "product_id": 12,
+        "product_title": "Samsung Galaxy Watch 4",
+        "product_image": "https://i.ibb.co.com/J7Z0rdj/Samsung-Galaxy-Watch-4.webp",
+        "category": "Smart Watches",
+        "price": 249.99,
+        "description": "Samsung Galaxy Watch 4 with health and fitness features.",
+        "specifications": [
+            "1.4 inch display",
+            "Bluetooth connectivity",
+            "Health tracking features",
+            "Long battery life"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "other_field": "Color: Black"
+    },
+    {
+        "product_id": 13,
+        "product_title": "Samsung Galaxy Watch Active 2",
+        "product_image": "    https://i.ibb.co.com/KjpBBVj/Samsung-Galaxy-Watch-Active-2.webp",
+        "category": "Smart Watches",
+        "price": 199.99,
+        "description": "Samsung Galaxy Watch Active 2, designed for active lifestyles.",
+        "specifications": [
+            "1.2 inch display",
+            "Fitness tracking",
+            "Water resistant",
+            "Battery lasts up to 2 days"
+        ],
+        "availability": true,
+        "rating": 4.4,
+        "other_field": "Color: Silver"
+    },
+    {
+        "product_id": 14,
+        "product_title": "AirPods Pro",
+        "product_image": "https://i.ibb.co.com/2ghyt8n/Air-Pods-Pro.jpg",
+        "category": "Accessories",
+        "price": 249.99,
+        "description": "AirPods Pro with active noise cancellation.",
+        "specifications": [
+            "Active Noise Cancellation",
+            "Transparency mode",
+            "Sweat and water-resistant",
+            "More than 24 hours of listening time"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "other_field": "Includes wireless charging case"
+    },
+    {
+        "product_id": 15,
+        "product_title": "AirPods 2nd Gen",
+        "product_image": "    https://i.ibb.co.com/PtKm86R/Air-Pods-2nd-Gen.jpg",
+        "category": "Accessories",
+        "price": 159.99,
+        "description": "AirPods 2nd Gen with up to 24 hours of listening time.",
+        "specifications": [
+            "Easy setup",
+            "Automatic device switching",
+            "High-quality audio",
+            "More than 24 hours of battery life"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "other_field": "Includes charging case"
+    },
+    {
+            "product_id": 16,
+            "product_title": "HP Pavilion 15 (2024)",
+            "product_image": "https://i.ibb.co.com/ygsQRzN/HP-Pavilion-15-2024.webp",
+            "category": "Laptops",
+            "price": 699.99,
+            "description": "HP Pavilion 15 (2024) with powerful performance and sleek design.",
+            "specifications": [
+                "Intel Core i5-13500H",
+                "8GB DDR4 RAM",
+                "512GB NVMe SSD",
+                "15.6 inch FHD IPS display"
+            ],
+            "availability": true,
+            "rating": 4.5,
+            "other_field": "Color: Silver"
+        },
+        {
+            "product_id": 17,
+            "product_title": "HP Envy x360 14 (2024)",
+            "product_image": "https://i.ibb.co.com/6gqbDFd/HP-Envy-x360-14-2024.webp",
+            "category": "Laptops",
+            "price": 849.99,
+            "description": "HP Envy x360 14 (2024), a versatile convertible laptop with stunning visuals.",
+            "specifications": [
+                "AMD Ryzen 7 7730U",
+                "16GB LPDDR5 RAM",
+                "1TB NVMe SSD",
+                "14 inch FHD touchscreen"
+            ],
+            "availability": true,
+            "rating": 4.7,
+            "other_field": "Color: Nightfall Black"
+        },
+        {
+            "product_id": 18,
+            "product_title": "HP Omen 16 (2024)",
+            "product_image": "https://i.ibb.co.com/QXmcdp8/HP-Omen-16-2024.webp",
+            "category": "Laptops",
+            "price": 1399.99,
+            "description": "HP Omen 16 (2024), built for gamers with high-performance components.",
+            "specifications": [
+                "Intel Core i7-13700H",
+                "16GB DDR5 RAM",
+                "1TB SSD",
+                "16.1 inch QHD display with 165Hz"
+            ],
+            "availability": true,
+            "rating": 4.8,
+            "other_field": "Color: Shadow Black"
+        },
+        {
+            "product_id": 19,
+            "product_title": "HP Spectre x360 13 (2024)",
+            "product_image": "https://i.ibb.co.com/YRgjtwD/HP-Spectre-x360-13-2024.webp",
+            "category": "Laptops",
+            "price": 1299.99,
+            "description": "HP Spectre x360 13 (2024), a premium ultrabook with a sleek design.",
+            "specifications": [
+                "Intel Core i7-1356G7",
+                "16GB LPDDR5 RAM",
+                "1TB SSD",
+                "13.5 inch 3K2K OLED touchscreen"
+            ],
+            "availability": true,
+            "rating": 4.9,
+            "other_field": "Color: Sapphire Blue"
+        },
+        {
+            "product_id": 20,
+            "product_title": "HP 14 Laptop (2024)",
+            "product_image": "https://i.ibb.co.com/nQR80Rd/HP-14-Laptop-2024.webp",
+            "category": "Laptops",
+            "price": 499.99,
+            "description": "HP 14 Laptop (2024), ideal for everyday tasks and portability.",
+            "specifications": [
+                "Intel Core i3-1215U",
+                "8GB DDR4 RAM",
+                "256GB NVMe SSD",
+                "14 inch HD display"
+            ],
+            "availability": true,
+            "rating": 4.2,
+            "other_field": "Color: Natural Silver"
+    },
+    {
+        "product_id": 21,
+        "product_title": "MacBook Pro M2",
+        "product_image": "https://i.ibb.co.com/GCPqKXr/macbook-pro-m2.webp",
+        "category": "MacBooks",
+        "price": 1299.99,
+        "description": "MacBook Pro M2 with a stunning Retina display and powerful performance.",
+        "specifications": [
+            "Apple M2 chip",
+            "8-core CPU and 10-core GPU",
+            "Up to 20 hours of battery life",
+            "13.3-inch Retina display"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "other_field": "Includes MagSafe charger"
+    },
+    {
+        "product_id": 22,
+        "product_title": "MacBook Pro M3",
+        "product_image": "https://i.ibb.co.com/442XrnV/Macbook-pro-m3.webp",
+        "category": "MacBooks",
+        "price": 1499.99,
+        "description": "MacBook Pro M3 with next-generation performance and exceptional battery life.",
+        "specifications": [
+            "Apple M3 chip",
+            "12-core CPU and 18-core GPU",
+            "Up to 22 hours of battery life",
+            "14-inch Liquid Retina XDR display"
+        ],
+        "availability": true,
+        "rating": 4.9,
+        "other_field": "Includes upgraded MagSafe 3 charger"
+    }
+    
+]
+
+
